@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Lifeskills_True_False_Game",
+"productVersion": "0.1",
+"dataUrl": "Abundance_Thinking_WEBGLBUILD.data.unityweb",
+"wasmCodeUrl": "Abundance_Thinking_WEBGLBUILD.wasm.code.unityweb",
+"wasmFrameworkUrl": "Abundance_Thinking_WEBGLBUILD.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.12f1"
+}
